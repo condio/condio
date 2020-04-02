@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://condio.github.io/condio/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/series/hugo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/posts/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/series/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/series/theme/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/posts/theme-demo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/photography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://condio.github.io/condio/tags/</loc>
+  </url>
+  
+</urlset>
