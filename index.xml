@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CONDIO</title>
-    <link>http://cond.io/</link>
+    <link>https://cond.io/</link>
     <description>Recent content on CONDIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cond.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cond.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme Demo</title>
-      <link>http://cond.io/posts/theme-demo/</link>
+      <link>https://cond.io/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cond.io/posts/theme-demo/</guid>
+      <guid>https://cond.io/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
@@ -29,10 +29,10 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>About Me</title>
-      <link>http://cond.io/about/</link>
+      <link>https://cond.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cond.io/about/</guid>
+      <guid>https://cond.io/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -42,19 +42,19 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Contact</title>
-      <link>http://cond.io/contact/</link>
+      <link>https://cond.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cond.io/contact/</guid>
+      <guid>https://cond.io/contact/</guid>
       <description>Follow me, @johndoe.</description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>http://cond.io/photography/</link>
+      <link>https://cond.io/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cond.io/photography/</guid>
+      <guid>https://cond.io/photography/</guid>
       <description>Content coming soon!
 For now, please follow me on Instagram @MatthewCondio</description>
     </item>
