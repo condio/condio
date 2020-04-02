@@ -6,25 +6,19 @@
     <description>Recent content on CONDIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cond.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Theme Demo</title>
-      <link>https://cond.io/posts/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      <title>My Move to Hugo</title>
+      <link>https://cond.io/posts/my-move-to-hugo/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cond.io/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>https://cond.io/posts/my-move-to-hugo/</guid>
+      <description>How did you spend your time in quarantine? While stuck inside, I tried to think of ways to be productive. I originally thought about learning to juggle, but I decided instead to learn about static site builders.
+Starting with WordPress In 2019, I made the decision to build two websites wth WordPress. I learned a lot about the platform and was happy with how my sites looked, but I grew tired of keeping them maintained.</description>
     </item>
     
     <item>
