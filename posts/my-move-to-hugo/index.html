@@ -139,6 +139,7 @@ Someone mentioned static site builders and recommended Jekyll or Hugo. After rev
 <p>Finally, once my code changes look good, I kick off a deploy script in terminal which generates the static site for me and automatically pushed the code to the public site&rsquo;s directory on GitHub. This is where Hugo feels magical. For sites with multiple pages of blog posts and a &ldquo;Recent Posts&rdquo; section, I don&rsquo;t have to manually shit all of the posts in HTML or manually update my recent blogs section of my site. Huge regenerates all of that for me and builds the static html. All I have to do is write my blog and kick off the deploy script.</p>
 <h3 id="comparing-2019-to-2020">Comparing 2019 to 2020</h3>
 <p>Overall, I am extremely happy moving away from WordPress and onto Hugo. I have much more control over my sites, I no longer have to worry about constantly updating WordPress or the plugins, and I was able to cancel my paid host and save $100+ a year. Switching to Hugo ended up being a big win for me. It gave me the opportunity to save money and spend less time managing my sites.</p>
+<hr>
 <table>
 <thead>
 <tr>
@@ -161,6 +162,7 @@ Someone mentioned static site builders and recommended Jekyll or Hugo. After rev
 </tr>
 </tbody>
 </table>
+<hr>
 
       </div>
 
@@ -177,7 +179,26 @@ Someone mentioned static site builders and recommended Jekyll or Hugo. After rev
 </section>
 
 
-        
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "condio" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
         
         
       </footer>
