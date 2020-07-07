@@ -6,10 +6,20 @@
     <description>Recent content on CONDIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cond.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Thoughts on the New C8 Corvette</title>
+      <link>https://cond.io/posts/corvette-c8-thoughts/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cond.io/posts/corvette-c8-thoughts/</guid>
+      <description>C8 Corvette While stuck inside, I tried to think of ways to be productive. I originally thought about learning to juggle, but I decided instead to learn about static site builders.
+Engine Moved In 2019, I made the decision to build two websites wth WordPress. I learned a lot about the platform and was happy with how my sites looked, but I grew tired of keeping them maintained. Every week it was the same chore&amp;hellip; look at WordFence, see how many hack attempts were made on my domain, ensure plugins get updated, ensure WordPress is up to date.</description>
+    </item>
     
     <item>
       <title>My Move to Hugo</title>
@@ -49,7 +59,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cond.io/photography/</guid>
-      <description>Recent Photos I&amp;rsquo;ve Taken Favorites Coming soon</description>
+      <description>2020 Photos </description>
     </item>
     
   </channel>
