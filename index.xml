@@ -6,21 +6,7 @@
     <description>Recent content on CONDIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://cond.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>My Midlife Crisis</title>
-      <link>https://cond.io/posts/my-midlife-crisis/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cond.io/posts/my-midlife-crisis/</guid>
-      <description>Growing Up When I was young, my father would drive me around town in his white 1988 Trans Am GTA. It was loud, the exhaust smelled funny, and it was fast. To me as a passenger, that car was the coolest thing ever. Thirty-two years later, the car is still running fine and my dad still drives it in the summer. That cars not going anywhere.
-I was also fortunate to live in a neighborhood with a few good cars growing up.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cond.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Move to Hugo</title>
       <link>https://cond.io/posts/my-move-to-hugo/</link>
@@ -59,7 +45,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cond.io/photography/</guid>
-      <description>2020 Photos </description>
+      <description>No Photos Yet! </description>
     </item>
     
   </channel>
