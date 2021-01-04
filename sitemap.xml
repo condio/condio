@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://cond.io/blog/</loc>
     <lastmod>2020-04-02T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://cond.io/categories/</loc>
     <lastmod>2020-04-02T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://cond.io/</loc>
     <lastmod>2020-04-02T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/featured/</loc>
+    <loc>https://cond.io/categories/featured/</loc>
     <lastmod>2020-04-02T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/my-move-to-hugo/</loc>
+    <loc>https://cond.io/blog/my-move-to-hugo/</loc>
     <lastmod>2020-04-02T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://cond.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://cond.io/tags/</loc>
   </url>
   
 </urlset>

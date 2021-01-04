@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>featured on Cond.io</title>
-    <link>https://example.com/categories/featured/</link>
+    <link>https://cond.io/categories/featured/</link>
     <description>Recent content in featured on Cond.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 -0400</lastBuildDate><atom:link href="https://example.com/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 -0400</lastBuildDate><atom:link href="https://cond.io/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Move to Hugo</title>
-      <link>https://example.com/blog/my-move-to-hugo/</link>
+      <link>https://cond.io/blog/my-move-to-hugo/</link>
       <pubDate>Thu, 02 Apr 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/blog/my-move-to-hugo/</guid>
+      <guid>https://cond.io/blog/my-move-to-hugo/</guid>
       <description>How did you spend your time in quarantine?  While stuck inside, I tried to think of ways to be productive. I originally thought about learning to juggle, but I decided instead to learn about static site builders.
 Starting with WordPress  In 2019, I made the decision to build two websites wth WordPress. I learned a lot about the platform and was happy with how my sites looked, but I grew tired of keeping them maintained.</description>
     </item>
