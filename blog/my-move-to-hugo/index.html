@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<meta name="description" content="Matt describes moving from WordPress to Hugo." />
+
+<title>
+	Cond.io
+	 - My Move to Hugo 
+</title>
+
+
+
+<link rel="icon" href="/favicon.png">
+
+	
+
+
+
+
+
+<link rel="stylesheet" href="https://example.com/css/main.min.37c510c3e19e10412f87efddca5c92eb.css" crossorigin="anonymous" media="screen"
+	integrity="md5-N8UQw+GeEEEvh+/dylyS6w==">
+
+
+
+
+
+
+<link rel="stylesheet" href="https://example.com/css/syntax.min.bb1b567de4651428ffd1a37a1d2bfba6.css" crossorigin="anonymous"
+	integrity="md5-uxtWfeRlFCj/0aN6HSv7pg==" media="screen">
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://example.com/style/style.min.30b92dd8cdad894af0d7701fe5ade87d.css" crossorigin="anonymous" media="screen"
+	integrity="md5-MLkt2M2tiUrw13Af5a3ofQ==">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://example.com/css/main.min.d5d46344e3b621a3e3a173927106f45d.css" crossorigin="anonymous" media="screen"
+	integrity="md5-1dRjROO2IaPjoXOScQb0XQ==">
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script src="https://example.com/js/pico.min.0c87ee6124671e6a6caffc5953bef38a.js" intergrity="md5-DIfuYSRnHmpsr/xZU77zig==" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body class="min-h-screen bg-white relative pb-24">
+	<div id="top"></div>
+
+<header class="w-full flex items-center justify-between px-5 mx-auto md:mt-8 md:max-w-5xl pt-2 md:pt-0">
+	
+	<div class="flex items-center">
+		<a href="https://example.com/" class="inline-block font-bold no-underline select-none">
+			<h1 class="hidden md:block font-charter tracking-normal m-0">
+				Cond.io
+			</h1>
+
+			<div class="md:hidden">
+				<div class="w-8 h-8 relative font-bold bg-white blend-diff">
+	<h1 class="absolute-center m-0 font-charter text-2xl text-gray-100 blend-diff select-none">
+		C
+	</h1>
+</div>
+			</div>
+		</a>
+		
+	</div>
+
+	<nav class="">
+		
+		<a href="/" class='mx-1 md:mx-2 hover:text-black no-underline'>
+			 Home
+		</a>
+		
+		<a href="/blog/" class='mx-1 md:mx-2 hover:text-black no-underline'>
+			 Blog
+		</a>
+		
+	</nav>
+</header>
+	
+
+	<main class="w-full px-4 pt-8 mx-auto md:max-w-4xl overflow-x-hidden md:overflow-visible ">
+<button onclick="window.history.back()"
+	class="bg-transparent border-none font-bold">&larr;Back</button>
+<h1 class="text-center mx-auto max-w-4xl text-4xl sm:text-5xl md:text-6xl">
+	My Move to Hugo
+</h1>
+
+<h2 class="text-center font-serif font-thin mx-auto mb-16 max-w-4xl text-4xl">
+	From WordPress to a Static Site Generator
+</h2>
+
+<div class="text-justify leading-loose mb-12 text-lg">
+	<h3 id="how-did-you-spend-your-time-in-quarantine">How did you spend your time in quarantine?</h3>
+<hr>
+<p>While stuck inside, I tried to think of ways to be productive. I originally thought about learning to juggle, but I decided instead to learn about static site builders.</p>
+<h3 id="starting-with-wordpress">Starting with WordPress</h3>
+<hr>
+<p>In 2019, I made the decision to build two websites wth WordPress. I learned a lot about the platform and was happy with how my sites looked, but I grew tired of keeping them maintained. Every week it was the same chore&hellip; look at WordFence, see how many hack attempts were made on my domain, ensure plugins get updated, ensure WordPress is up to date. I also couldn&rsquo;t get my sites to be as quick and lightweight as I wanted, even using some popular plugins. I can now appriciate WordPress and see why it is as popular as it is, but it just wasn&rsquo;t ideal for small, personal sites like mine.</p>
+<h3 id="learning-about-hugo">Learning about Hugo</h3>
+<hr>
+<p>While in quarantine, I started to do research on reddit to learn how others were building smaller sites. I had originally planned to write something extremely simple in HTML5 and CCS3.0, but I wasn&rsquo;t sure on best practices or how to get blogs to work.
+Someone mentioned static site builders and recommended Jekyll or Hugo. After reviewing both, I decided to learn Hugo.</p>
+<h3 id="how-does-it-work-now">How does it work now?</h3>
+<hr>
+<p>As of today, all three of my sites have their Hugo source code and final code in their own repositories on GitHub (2 repositories for each site). Using GitHub on my PC, I am able to edit the Hugo source and push changes back to their source repositories.</p>
+<p>All changes to my sites are made and demoed on my computer in real time with Hugo by entering &lsquo;hugo server&rsquo; in terminal. This spins up a local version of the site for my browser to view. It also automatically refreshed every time I save my changes.</p>
+<p>Finally, once my code changes look good, I kick off a deploy script in terminal which generates the static site for me and automatically pushed the code to the public site&rsquo;s directory on GitHub. This is where Hugo feels magical. For sites with multiple pages of blog posts and a &ldquo;Recent Posts&rdquo; section, I don&rsquo;t have to manually shit all of the posts in HTML or manually update my recent blogs section of my site. Huge regenerates all of that for me and builds the static html. All I have to do is write my blog and kick off the deploy script.</p>
+<h3 id="comparing-2019-to-2020">Comparing 2019 to 2020</h3>
+<hr>
+<p>Overall, I am extremely happy moving away from WordPress and onto Hugo. I have much more control over my sites, I no longer have to worry about constantly updating WordPress or the plugins, and I was able to cancel my paid host and save $100+ a year. Switching to Hugo ended up being a big win for me. It gave me the opportunity to save money and spend less time managing my sites.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">2019 Sites</th>
+<th style="text-align:center">2020 Sites</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">WordPress Personal Site #1 - Paid Hosting</td>
+<td style="text-align:center">Hugo Minimistic Site (this one) - Free</td>
+</tr>
+<tr>
+<td style="text-align:center">WordPress Personal Site #2 - Same Paid Hosting</td>
+<td style="text-align:center">Hugo (reveal theme) Site - Free</td>
+</tr>
+<tr>
+<td style="text-align:center">Blogger Site - Free</td>
+<td style="text-align:center">Hugo (Blog Focused Site) - Free</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+
+
+<div class="flex flex-wrap justify-between items-center">
+	
+
+	
+</div>
+
+<hr class="my-6">
+<div class="flex justify-center items-center flex-wrap">
+	
+</div>
+<div class="mt-6"></div>
+
+
+	</main>
+
+	<div class="absolute bottom-0 w-full"><footer class="w-full h-24 text-center text-xs text-gray-400 bg-black relative">
+	<div class="w-full px-6 md:pt-0 md:mx-auto md:max-w-5xl flex flex-1 space-between items-center absolute-center">
+		<a href="https://example.com/" class="absolute">
+			<div class="w-8 h-8 relative font-bold bg-white blend-diff">
+	<h1 class="absolute-center m-0 font-charter text-2xl text-gray-100 blend-diff select-none">
+		C
+	</h1>
+</div>
+		</a>
+
+		<div class="h-full flex-1">
+			<span class="select-none">Hugo Theme designed by
+				<a href="https://github.com/negrel/" class="text-gray-400 hover:text-gray-200 no-underline">negrel</a>
+			</span>
+		</div>
+	</div>
+</footer>
+	</div>
+</body>
+
+</html>
