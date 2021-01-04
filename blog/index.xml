@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on Cond.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 -0400</lastBuildDate><atom:link href="https://cond.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 -0500</lastBuildDate><atom:link href="https://cond.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2019 Photos</title>
+      <link>https://cond.io/blog/2019-photos/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://cond.io/blog/2019-photos/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My Move to Hugo</title>
       <link>https://cond.io/blog/my-move-to-hugo/</link>
